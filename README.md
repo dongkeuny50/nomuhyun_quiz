@@ -6,5 +6,4 @@ this app is The Quiz game. you can know about nomuhyun by this app. also you can
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-![image](https://user-images.githubusercontent.com/29349335/116769556-07e24980-aa78-11eb-8199-221a9a492dbf.png)
+![image](https://user-images.githubusercontent.com/29349335/116769569-192b5600-aa78-11eb-8aa5-e53db537ee26.png)
