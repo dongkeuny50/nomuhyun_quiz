@@ -1,16 +1,9 @@
 # nomuhyun_quiz
 
-노무현 퀴즈
-
+노무현 퀴즈앱입니다. 노무현에 대하여 알 수 있습니다. 플러터 앱 레퍼런스로 사용할 수 있습니다.
+this app is The Quiz game. you can know about nomuhyun by this app. also you can use this for your flutter app reference.
+韓国の元大統領、ノムヒョンのquiz appです。flutter appのレファランスとして使ってください。
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
